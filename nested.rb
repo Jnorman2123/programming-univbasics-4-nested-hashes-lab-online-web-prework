@@ -21,7 +21,7 @@ def dennis_ritchies_language
   programmer_hash = {
   grace_hopper: {known_for: "COBOL", languages: ["COBOL", "FORTRAN"]},
   alan_kay: {known_for: "Object Orientation", languages: []},
-  dennis_ritchie: {known_for: "", languages: ["C"]
+  dennis_ritchie: {known_for: "", languages: ["C"]}
   }
   
   programmer_hash[dennis_ritchie][languages][0]
